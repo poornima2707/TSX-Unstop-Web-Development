@@ -1,4 +1,4 @@
-# 💼 Poornima Mendhkar — Portfolio Website
+# 💼 Poornima Mendhekar — Portfolio Website
 
 Welcome to my **Personal Portfolio Website**, designed to showcase my professional profile, technical skills, project experience, certifications, and more.
 
